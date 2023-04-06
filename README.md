@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shinkey</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Lrjw1uJ_wAkAAAAd/futaba-persona.gif">
-<h3 align="center">A crazy backend developer from Russia</h3>
+<h3 align="center">A aspiring backend developer from Russia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh1nkey" alt="sh1nkey" /></a> </p>
 
