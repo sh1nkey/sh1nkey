@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django, Redis, Celery, Docker**
 
-- 👯 I’m looking to collaborate on **creating of any complex backend websites to train/show off my skills**
+- 👯 I’m looking to collaborate on **creating of any complex backend website to train/show off my skills**
 
 - 🤝 I’m looking for help with **creating well-written Python backend in a short period of time**
 
