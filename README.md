@@ -6,17 +6,12 @@
 
 - 🔭 I’m currently working on [outtask project](https://github.com/sh1nkey/outtask)
 
-- 🌱 I’m currently learning **Django, Redis, Celery, Docker**
-
 - 👯 I’m looking to collaborate on **creating of any complex backend website to train/show off my skills**
 
 - 🤝 I’m looking for help with **creating well-written Python backend in a short period of time**
 
-- 💬 Ask me about **SQL**
-
 - 📫 How to reach me **flexivanov237@gmail.com**
 
-- ⚡ Fun fact **I am therefore I think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
