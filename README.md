@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh1nkey" alt="sh1nkey" /></a> </p>
 
-- 🔭 I’m currently working on [daipyat project](https://daipyat.ru/)
+- 🔭 I’m currently working on [daipyat project](https://daipyat.ru/) & GoalGalaxy project
 
 - 👯 I’m looking to collaborate on **creating of any complex backend website to train/show off my skills**
 
