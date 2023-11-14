@@ -18,8 +18,6 @@
 <a href="https://www.youtube.com/channel/UCNEbbbx4bY-E7ymVSnKm1PQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shinkey" height="30" width="40" /></a>
 </p>
 
-https://github.com/sh1nkey/sh1nkey/assets/110509023/1302bcba-3b31-4a88-aa34-5f0efafa8e5e
-https://django-ninja.dev/img/hero.png
 
 
 <h3 align="left">Languages and Tools:</h3>
